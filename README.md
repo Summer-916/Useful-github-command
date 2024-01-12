@@ -12,3 +12,6 @@ git add .
 git commit -m "commitment"
 git push origin main
 --------------------------------------------
+->Download a repository
+git clone <URL>
+--------------------------------------------
