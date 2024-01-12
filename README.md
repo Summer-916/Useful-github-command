@@ -5,7 +5,7 @@ git fetch origin
 git reset --hard origin
 --------------------------------------------
 ->Create a new file(Windows)
-New-Item -Path "name" ItemType File
+New-Item -Path "name" -ItemType File
 --------------------------------------------
 ->Commit changes
 git add .
